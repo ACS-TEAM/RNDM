@@ -22,7 +22,6 @@ pip install mechanize
 pkg install python
 pkg install git
 pkg install ruby
-rm -rf FB-Brute
 git clone https://github.com/ACS-TEAM/RNDM
 cd RNDM
 python rndm.py
